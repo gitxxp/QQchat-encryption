@@ -57,7 +57,7 @@ def cut():
 def run(a,b):
      last_cut = 'CzAVrz6SeanMiV0V8dKI/t2fwi5Cb/OIClHmjPgmy8Bfoh5seCP/mmcH2plZke057aCG+VqDk7lFQtcEqvq0QmfKkpey/xQA1T56sjOC8Pk='
      setload()
-
+     print(a,b)
      print('解密方法：选定密文，Ctrl+C即可')
      while True:
           time.sleep(1)
