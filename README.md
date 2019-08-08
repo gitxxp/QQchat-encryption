@@ -16,7 +16,7 @@
 
 效果预览：
 --
-![Z9WlSs.jpg](https://s2.ax1x.com/2019/06/22/Z9WlSs.jpg)
+![Z9WlSs.jpg](https://github.com/gitxxp/QQchat-encryption/blob/master/Inked68747470733a2f2f73322e617831782e636f6d2f323031392f30362f32322f5a39576c53732e6a7067_LI.jpg?raw=true)
 
 使用方法：
 -----
